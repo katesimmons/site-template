@@ -1,1 +1,9 @@
-/* this is a JS comment */
+/* variables can go here */
+
+$(document).ready(function (){ 
+
+	/* this is where functions go */
+	
+});
+
+
